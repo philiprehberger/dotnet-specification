@@ -105,6 +105,12 @@ var results = dbContext.Users.Where(expr);
 |--------|-------------|
 | `Evaluate<T>(IQueryable<T>, Specification<T>)` | Apply a specification to a queryable source |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Specification.csproj --configuration Release
+```
+
 ## License
 
 MIT
