@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Philiprehberger.Specification</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Philip Rehberger</Authors>
+    <Description>Specification pattern implementation for composable, reusable query filters</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/philiprehberger/dotnet-specification</RepositoryUrl>
+    <PackageTags>specification;pattern;ddd;query;filter;composable</PackageTags>
+  </PropertyGroup>
+
+</Project>
