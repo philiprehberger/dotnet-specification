@@ -6,7 +6,7 @@
 
 Specification pattern implementation for composable, reusable query filters.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Specification
